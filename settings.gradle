@@ -1,0 +1,3 @@
+rootProject.name = 'dwm-bukkit'
+include 'dwm-api'
+include 'dwm-core'
